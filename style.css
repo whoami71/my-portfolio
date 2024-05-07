@@ -78,8 +78,14 @@ h2 {
 
 #full-stuck-developer {
     border-left: 7px solid tomato;
+    border-radius: 10px;
 }
 
 #baby-web-developer {
     border-left: 7px solid blue;
+    border-radius: 10px;
+}
+
+footer p {
+    text-align: center;
 }
